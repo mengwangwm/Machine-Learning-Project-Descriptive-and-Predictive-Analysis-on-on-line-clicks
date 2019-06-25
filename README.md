@@ -1,4 +1,5 @@
 # Machine-Learning-Project-Descriptive-and-Predictive-Analysis-on-on-line-clicks
+The goal of the project is to leverage machine learning techniques to analyze predicting clicks for on-line advertisements.
 
 The goal of the project is to leverage machine learning techniques to analyze predicting clicks for on-line advertisements. We analyze data which little over 45 million observations and 24 different variables to make our predictions. Our outcome variable is a binary categorical variable, 1 representing an ad was clicked on and 0 being an ad was not clicked on. We go through a rigorous process of model building and parameter selection of the best fit model and the performance criterion used to evaluate the performance is the log loss function.
 
